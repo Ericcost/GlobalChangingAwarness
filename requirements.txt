@@ -1,3 +1,6 @@
-jupyter-notebook
+jupyter
+notebook
 numpy
 pandas
+matplotlib
+ipywidgets
